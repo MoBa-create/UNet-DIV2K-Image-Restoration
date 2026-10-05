@@ -13,6 +13,9 @@ A PyTorch-based Deep Learning project implementing a 256x256 **U-Net Autoencoder
 
 ---
 
+<img width="1245" height="646" alt="Screenshot 2026-10-05 030732" src="https://github.com/user-attachments/assets/bca6023e-d71a-4bc8-b704-4884e3990db8" />
+
+
 ## 🏗️ Architecture
 
 The model uses a symmetric **U-Net** design:
