@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# Model Weights (Do not push heavy weights directly)
+*.pth
+
+# Dataset files & directories
+DIV2K_train_HR/
+DIV2K_train_HR.zip
+*.jpg
+*.png
+
+# IDE settings
+.vscode/
+.idea/
